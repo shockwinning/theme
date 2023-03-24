@@ -9,9 +9,9 @@
  * @source https://github.com/DiscordStyles/FrostedGlass
  * @website https://gibbu.me/
 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
-
 /* BlackBox tags */
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
 
@@ -62,7 +62,7 @@
     Visit https://fonts.google.com and select one to your liking.
     Now just follow this tutorial: https://imgur.com/a/CNbw7xC
   */
-  --font: 'Whitney';
+  --font: 'Roboto';
 
   /* Do not touch */
   --update-notice-1: none;
